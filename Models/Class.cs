@@ -7,5 +7,7 @@ namespace Creed.Models
 {
     public class Class
     {
+        public string Nome { get; set; }
+        public string Telefone { get; set; }
     }
 }
